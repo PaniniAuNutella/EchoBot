@@ -1,14 +1,14 @@
 {
-  "name": "Echo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "Error"
-   },
-   "author": "Panini",
-   "license": "ISC",
-   "dependencies": {
-    "discord.js": "^12.0",
-   }
-}
+    "name": "echo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "Error"
+     },
+     "author": "Panini",
+     "license": "ISC",
+     "dependencies": {
+      "discord.js": "^12.0"
+     }
+  }
